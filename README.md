@@ -1,0 +1,1 @@
+# Color_inspection_simple_model
